@@ -1,0 +1,24 @@
+.topbar-filter-container {
+    min-width: 160px;
+    height: 30px;
+    line-height: 30px;
+    border-radius: 2px;
+    background-color: #434ea2;
+    color: #fff;
+    border: 0;
+    -webkit-appearance: none;
+    -webkit-border-radius: 2px;
+    padding: 0 10px;
+    margin-right: 14px;
+    text-align: left;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+
+element.style {
+}
+ffcd220-da39504.css:5
+.filter-checkbox__label {
+    line-height: 31px;
+}

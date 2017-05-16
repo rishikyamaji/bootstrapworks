@@ -1,0 +1,22 @@
+body{
+    font-family: camphor;
+    font-weight: 400;
+    font-size: 16px;
+    color: #414146; 
+        line-height: 1;
+    text-align: left;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    background-color: #f0f0f5;
+    font-family: "Camphor","verdana" !important;
+	overflow-x: hidden;
+    }
+html, body{
+    
+    height: 100%;
+}
+@media only screen and (min-width: 801px)
+.p_nav .navbar.desktop {
+    display: block !important;
+}
+
